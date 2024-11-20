@@ -3,4 +3,6 @@ p {
     font-family : verdana, sans-sherif;
     font-size: 100%;
     background-color:white ;
+    padding: auto;
+    height: 1px;
 }
